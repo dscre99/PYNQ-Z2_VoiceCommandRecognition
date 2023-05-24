@@ -1,14 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -19,6 +10,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This project has been submitted on May 2023 as part of the exam procedure of the *System-on-Chip Architecture* course held at Politecnico di Torino during the Academic Year 2022/2023.
+
+Main collaborators:
+- Alfredo PAOLINO - [@AlfredoPaolino](https://github.com/AlfredoPaolino)
+- Alessio SALTA - [@submarine401](https://github.com/submarine401)
+- Davide FOGLIATO - [@davide-fogliato](https://github.com/davide-fogliato)
+
+Referent teachers and assistants:
+- Prof. Alberto MACII
+- Prof. Gianvito URGESE
+- Andrea PIGNATA
+- Walter GALLEGO GOMEZ
+
+Everyone is welcome to reproduce, improve, and re-use this work in other projects. However, given the huge effort and the high number of hours devoted to it, a mention to this repository in your future work would be truly appreciated. Thank you and enjoy :)
+
+</br>
 
 <p align="center">
   <img src="images/flow.png" />
